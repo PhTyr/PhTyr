@@ -1,8 +1,6 @@
 ### Olá, 👋
 ## Eu sou o Philip, Dev Back-end 👍
 
-![Philip GitHub stats](https://github-readme-stats.vercel.app/api?username=PhTyr&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PhTyr&hide_progress=compact)
 
 
 <div style="display: inline_block"><br>
