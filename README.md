@@ -1,10 +1,8 @@
 ### Olá, 👋
 ## Eu sou o Philip, Dev Back-end 👍
 
-<div>
-<a href="https://github.com/PhTyr">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhTyr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhTyr&layout=compact&langs_count=7&theme=dracula"/>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Philip-Js" height="390" width="1080" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 </div>
 
 ##
