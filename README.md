@@ -18,15 +18,11 @@
 ##
 
 ### Algumas tecnologias que utilizo 👀
-<div style="display: inline_block"><br>
-  <img align="center" alt="Philip-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Philip-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Philip-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Philip-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Philip-POSTGRESQL" height="30" width="110" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="Philip-EXPRESS" height="30" width="80" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-  <img align="center" alt="Philip-EXPRESS" height="30" width="110" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,typescript,postgres,html,vscode" />
+  </a>
+</p>
 
 ##
 ### Meus contatos
