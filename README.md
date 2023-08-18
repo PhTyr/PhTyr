@@ -1,6 +1,7 @@
 ### Olá, 👋
 ## Eu sou o Philip, Dev Back-end 👍
 
+<br>
 <div align="center">
 <p align=center>
   <div align=center>
@@ -11,13 +12,12 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PhTyr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-
   <br><br><br><br><br><br><br><br>
   
 
 ##
 <p align="left">
-Algumas tecnologias que utilizo 👀
+<b> Algumas tecnologias que utilizo </b> 👀
 </p>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -26,11 +26,15 @@ Algumas tecnologias que utilizo 👀
 </p>
 
 ##
-### Meus contatos
+<p align="left">
+  <b> Meus contatos: </b>
+</p>
 <div>
+  <p align="left">
   <a href="https://www.instagram.com/philip_rm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:philip.rodrigues.machado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/philip-rodrigues-machado-95240460/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 </div>
 
 
