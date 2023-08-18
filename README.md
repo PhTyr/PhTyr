@@ -20,7 +20,7 @@
 <b> Algumas tecnologias que utilizo </b> 👀
 </p>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,typescript,postgres,html,vscode" />
   </a>
 </p>
