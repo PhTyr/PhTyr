@@ -16,9 +16,10 @@
   
 
 ##
-
-### Algumas tecnologias que utilizo 👀
-<p align="center">
+<p align="left">
+Algumas tecnologias que utilizo 👀
+</p>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,typescript,postgres,html,vscode" />
   </a>
