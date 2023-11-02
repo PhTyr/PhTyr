@@ -18,7 +18,7 @@
 </p>
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,typescript,postgres,html,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,nodejs,github,javascript,typescript,cs,dotnet,postgres,html,vscode" />
   </a>
 </p>
 
