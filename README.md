@@ -7,6 +7,7 @@
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=PhTyr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="left" width=390 src=https://github-readme-stats.vercel.app/api/top-langs/?username=PhTyr&show_icons=true&theme=react&border_color=61dafb&hide_progress=true)/>
     </a>
   </div>
   <br><br><br><br><br><br><br><br>
