@@ -15,7 +15,7 @@
 
 ##
 <p align="left">
-<b> Algumas tecnologias que utilizo </b> 👀
+<b> Algumas tecnologias que utilizo... </b> 👀
 </p>
 <p align="left">
   <a>
